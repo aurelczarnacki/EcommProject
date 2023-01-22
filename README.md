@@ -1,1 +1,1 @@
-# ComfyHood E-commerce Project by Karol Bączek & Aureliusz Czarnacki
+### ComfyHood E-commerce Project by Karol Bączek & Aureliusz Czarnacki
